@@ -24,7 +24,7 @@ public class SQL {
         //MySQL配置时的用户名
         String user = "root";
         //MySQL配置时的密码
-        String password = "123456";
+        String password = "******";
         //遍历查询结果集
         try {
             //加载驱动程序
